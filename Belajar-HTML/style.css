@@ -1,0 +1,18 @@
+.hedar {
+  text-align: center;
+  text-shadow: 10px;
+  text-justify: auto;
+}
+
+body {
+  background-color: #f7f7f7;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: white;
+}
+
+.project {
+  background-color: white;
+}
